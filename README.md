@@ -16,7 +16,7 @@ This repository documents my journey of solving **LeetCode coding challenges** i
 ## 📊 Progress
 | Difficulty | Solved | Goal |
 |------------|--------|------|
-| Easy       |   14   |  107 |
+| Easy       |   16   |  107 |
 | Medium     |   0    |  162 |
 | Hard       |   0    |  31  |
 
